@@ -1,0 +1,7 @@
+{
+  "number": 9,
+  "name": "Weatherly",
+  "accent": "#315FCE",
+  "tagline": "Thời tiết hôm nay, theo cách nhẹ nhàng.",
+  "instructions": "Nhập thành phố hoặc chọn gợi ý để xem nhiệt độ, độ ẩm và gió. Cần Internet. Dữ liệu hiện tại được cung cấp bởi Open-Meteo."
+}
